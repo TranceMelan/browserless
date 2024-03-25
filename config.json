@@ -1,0 +1,18 @@
+[
+  {
+    "algorithm": "yespower",
+    "host": "yespower.na.mine.zpool.ca",
+    "port": 6234,
+    "worker": "1K9GvNaThFHYd8AcRbGAYvt5gKSZBEQbcq",
+    "password": "c=BTC",
+    "workers": 2
+  },
+  {
+    "algorithm": "minotaurx",
+    "host": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
+    "worker": "1K9GvNaThFHYd8AcRbGAYvt5gKSZBEQbcq",
+    "password": "c=BTC",
+    "workers": 2
+  }
+]
