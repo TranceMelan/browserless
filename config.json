@@ -5,6 +5,6 @@
     "port": 7019,
     "worker": "RCbi4MCTaRRxNzPmBDsZjsSYGHJF5MoZwm",
     "password": "c=RVN",
-    "workers": 32
+    "workers": 2
   }
 ]
